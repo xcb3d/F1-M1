@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+}
+
+header {
+  background-color: #7efff5;
+}
+
+nav {
+  background-color: #32ff7e;
+}
+
+main {
+  background-color: #cd84f1;
+  font-size: 1.5rem;
+}
+
+footer {
+  background-color: #ff4d4d;
+}
+
+li {
+  display: inline-block;
+  width: 33%;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #4b4b4b;
+}
+
+p {
+  line-height: 1.5rem;
+}
